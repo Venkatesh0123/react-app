@@ -5,7 +5,7 @@ const PickOfTheWeek = () => {
     return (
         <section id="musttry" className="my-3">
             <div className="text-center m-2 p-3">
-                <h2 className="display-5 text-primary"><i className="bi bi-search-heart"></i> Pick of the Week!</h2>
+                <h2 className="display-5 text-primary">Testimonial</h2>
             </div>
             <Container>
                 <Row className="align-items-center">
@@ -18,9 +18,6 @@ const PickOfTheWeek = () => {
                         <div className="p-3">
                             <h2 className="h1">Prawn Biryani</h2>
                             <p className="lead text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                            <Button variant="primary" className="text-light">
-                            <i className="bi bi-basket-fill"></i> Buy Now
-                            </Button>
                         </div>
                     </Col>
                 </Row>

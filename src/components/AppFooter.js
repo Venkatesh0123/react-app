@@ -32,16 +32,16 @@ const AppFooter = () => {
                     <Col  className="md-4">
                     <h5 className="text-dark"> Useful Links</h5>
                     <a href="#home" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Home</a>
-                    <a href="#menu" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Menu</a>
-                    <a href="#musttry" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Must Try</a>
+                    <a href="#menu" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Services</a>
+                    <a href="#musttry" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> About Us</a>
                     <a href="#contactus" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Contact Us</a>
                     </Col>
                     <Col  className="md-4">
                     <h5 className="text-dark"> Our Services</h5>
                     <a href="#" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Cattering</a>
-                    <a href="#" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Bulk orders</a>
-                    <a href="#" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Dine in</a>
-                    <a href="#" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Take away</a>
+                    <a href="#" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Electrical Services</a>
+                    <a href="#" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> House Cleanig</a>
+                    <a href="#" className="d-block text-decoration-none"><i className="bi bi-arrow-right"></i> Day Care</a>
                     </Col>
                     <Col  className="md-4">
                     <h5 className="text-dark"> Follow us on</h5>
@@ -61,7 +61,7 @@ const AppFooter = () => {
          </Container>
          <div className="text-center">
          <p className="text-light bg-dark m-0">
-         <i className="bi bi-c-circle"></i> CopyRight {currentYear}  Restaurant. All rights reserved.
+         <i className="bi bi-c-circle"></i> CopyRight {currentYear}  Global Service Provider. All rights reserved.
          </p>
          </div>
          </>
