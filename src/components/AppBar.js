@@ -7,7 +7,7 @@ const AppBar = () => {
     return (
         <Navbar expand="lg" className="bg-secondary m-3 rounded">
             <Container>
-                <Navbar.Brand href="#home"><h2 className="text-primary"> <span><i className="bi bi-shop"></i> Global Service Provider</span></h2></Navbar.Brand>
+                <Navbar.Brand href="#home"><h4 className="text-primary"> <span><i className="bi bi-shop"></i> Global Service Provider</span></h4></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
                     <Nav>
